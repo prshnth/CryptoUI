@@ -1,0 +1,30 @@
+.crypto-container {
+	background-color: antiquewhite;
+	font-size: 10px;
+}
+.data-container {
+	display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.buy-sell-container {
+	display: flex;
+    flex-direction: column;
+    border: 1px solid grey;
+    margin: 0 10px;
+    flex: 0 0 25%;
+}
+.link-container {
+    display: flex;
+    justify-content: space-between;
+}
+.web-site {
+	text-align: center;
+}
+.crypto-name {
+	flex: 0 0 25%;
+}
+.profit-container {
+	flex: 0 0 25%;
+	text-align: center;
+}
